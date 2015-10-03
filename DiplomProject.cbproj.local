@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.733,=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\MainForm.h=D:\diplom\MainForm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,D:\diplom\Unit1.h=D:\diplom\TextStructure.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.713,D:\diplom\Unit1.h=D:\diplom\ConnectedComponent.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,D:\diplom\Unit1.h=D:\diplom\DashFile.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.863,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\Project4.cbproj=C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\DiplomProject.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,=D:\diplom\Structs.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.607,D:\diplom\Unit1.h=D:\diplom\Incapsulators.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\Unit5.h=C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\MainForm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,D:\diplom\TextResolver.h=D:\diplom\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,=D:\diplom\CCP_Algorithm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,D:\diplom\ConnectedComponent.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\MainForm.cpp=D:\diplom\MainForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,D:\diplom\ComponentInfo.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.957,D:\diplom\CCP_Algorithm.cpp=D:\diplom\MainAlgorithm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,D:\diplom\Unit1.cpp=D:\diplom\DashFile.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.713,D:\diplom\Unit1.cpp=D:\diplom\ConnectedComponent.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.607,D:\diplom\Unit1.cpp=D:\diplom\Incapsulators.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,D:\diplom\Unit1.cpp=D:\diplom\TextStructure.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,D:\diplom\LetterBase.cpp=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,D:\diplom\ComponentInfo.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\Unit5.dfm=C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,D:\diplom\Unit2.h=D:\diplom\ComponentInfo.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,D:\diplom\TextResolver.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,D:\diplom\TextResolver.cpp=D:\diplom\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.746,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\DiplomProjectPCH1.h=D:\diplom\DiplomProjectPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,D:\diplom\File1.h=D:\diplom\ConnectedComponent.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\MainForm.dfm=D:\diplom\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,D:\diplom\LetterBase.h=D:\diplom\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.852,=D:\diplom\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,=D:\diplom\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,D:\diplom\File1.h=D:\diplom\ComponentInfo.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.320,=C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\Unit5.cpp=C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\MainForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,D:\diplom\ConnectedComponent.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\DiplomProject.cbproj=D:\diplom\DiplomProject.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,=C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\Project4PCH1.h=C:\Users\Alexandr\Documents\Embarcadero\Studio\Projects\DiplomProjectPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.957,D:\diplom\CCP_Algorithm.h=D:\diplom\MainAlgorithm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.553,=D:\diplom\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,=D:\diplom\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,D:\diplom\File1.cpp=D:\diplom\ComponentInfo.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,=D:\diplom\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,D:\diplom\Unit2.cpp=D:\diplom\ComponentInfo.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,D:\diplom\File1.cpp=D:\diplom\ConnectedComponent.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
